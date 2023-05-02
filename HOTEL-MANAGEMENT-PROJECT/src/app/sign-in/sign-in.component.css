@@ -1,0 +1,58 @@
+.loginform{
+    text-align: center;
+    margin : auto;
+    height: 60%;
+    width: 30%;
+    position: relative;
+    top:150px;
+    background-color: rgb(127, 164, 231);
+}
+mat-form-field {
+    padding: 10px;
+    width: 90%;
+}
+mat-raised-button {
+    width: 80%;
+}
+.my-custom-snackbar {
+    margin: 0 !important;
+    position: absolute;
+    right: 25px;
+    bottom:100px;
+  }
+
+  /* .cdk-overlay-container .cdk-global-overlay-wrapper .cdk-overlay-pane{
+    margin-bottom: 500px
+  }
+  mat-snack-bar-container.mdc-snackbar.mat-mdc-snack-bar-container.mdc-snackbar--open.my-custom-snackbar{
+    top:100px;
+    position: absolute;
+  }
+  .snakBarcss{
+    bottom:100px;
+  }
+  .mdc-snackbar__surface.ng-tns-c15-2{
+    bottom:100px;
+    position: absolute;
+  } */
+  .snakBarcss
+    .mat-dialog-container {
+      bottom:100px;
+     position: absolute;
+  }
+  /* .mat-mdc-snack-bar-container {
+    margin: 8px;
+    position: absolute;
+    top: 100px;
+  } */
+  .custom-snackbar {
+    background-color: #e61414;
+    color: #fff;
+  }
+  .bg{
+    background-image:url("../../assets/sign\ in.webp");
+    /* height: 100%;
+    width: 100%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    }

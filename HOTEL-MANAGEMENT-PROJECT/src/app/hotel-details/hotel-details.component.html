@@ -1,0 +1,34 @@
+<p>hotel-details works!</p>
+<button mat-raised-button color="warn" (click)="back()">Back</button>
+<div class="serach-bar-container">
+    <mat-form-field>
+        <mat-icon matPrefix>search</mat-icon>
+        <input matInput [(ngModel)]="inputBoxValue">
+    </mat-form-field>
+</div>
+
+
+<div class="table-container">
+
+    <table>
+        <tr>
+            <th *ngFor="let heading of tableHeadings">{{heading}}</th>
+            <th *ngIf="endpoint=='admin'">Delete</th>
+            <th *ngIf = "endpoint!='admin'">Book Now</th>
+        </tr>
+        <tr *ngFor="let hotelsData OF hotelDetails | searchtext:inputBoxValue">
+            <td>{{hotelsData.hotelName}}</td>
+            <td>{{hotelsData.ownerName}}</td>
+            <td>{{hotelsData.hotelContactNo}}</td>
+            <td>{{hotelsData.hotelAddress}}</td>
+            <td>{{hotelsData.hotelEmail}}</td>
+            <td>{{hotelsData.totalRooms}}</td>
+            <td>{{hotelsData.speciality}}</td>
+            <td>{{hotelsData.Rating}}</td>
+            <td>{{hotelsData.VehicalBooking}}</td>
+            <td *ngIf = "endpoint=='admin'"> <i class="material-icons" (click)="delete(hotelsData.id)">delete</i></td>
+           <button *ngIf = "endpoint == 'owner' || 'user'" (click)="bokNow()">Book Now</button>
+           <!-- <button *ngIf = "endpoint != 'admin'">Book Now</button> -->
+        </tr>
+    </table>
+</div>

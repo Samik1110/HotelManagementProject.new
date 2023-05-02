@@ -1,0 +1,400 @@
+{
+  "admin": [
+    {
+      "name": "Damodhar",
+      "mobile": "9763330729",
+      "Password": "damo5120",
+      "confirmPassword": "damo5120",
+      "TnC": true,
+      "gender": "male",
+      "email": "maskedamodhar@gmail.com",
+      "city": "Pune",
+      "id": 1
+    },
+    {
+      "name": "Shivansh",
+      "mobile": "9763330730",
+      "Password": "shiv1234",
+      "confirmPassword": "shiv1234",
+      "TnC": true,
+      "gender": "male",
+      "email": "maskedamodhar@gmail.com",
+      "city": "mumbai",
+      "id": 2
+    },
+    {
+      "name": "poonam",
+      "mobile": "8796333333",
+      "Password": "poonam1234",
+      "confirmPassword": "poonam1234",
+      "TnC": true,
+      "gender": "female",
+      "email": "poonam@gmail.com",
+      "city": "mumbai",
+      "id": 3
+    },
+    {
+      "name": "Pooja",
+      "mobile": "8779180087",
+      "Password": "Pooja1234",
+      "confirmPassword": "Pooja1234",
+      "TnC": true,
+      "gender": null,
+      "email": "Pooja4@gmail.com",
+      "city": "Mumbai",
+      "id": 4
+    },
+    {
+      "name": "shiyansh",
+      "mobile": "9899999999",
+      "Password": "shiyansh1234",
+      "confirmPassword": "shiyansh1234",
+      "TnC": true,
+      "gender": "male",
+      "email": "shiyansh@gmail.com",
+      "city": "pune",
+      "id": 5
+    },
+    {
+      "name": "OmSai",
+      "mobile": "8779180087",
+      "Password": "Om123456",
+      "confirmPassword": "Om123456",
+      "TnC": true,
+      "gender": "male",
+      "email": "Om34@gmail.com",
+      "city": "Mumbai",
+      "id": 6
+    },
+    {
+      "name": "shree",
+      "mobile": "8779180087",
+      "Password": "shree1234",
+      "confirmPassword": "shree1234",
+      "TnC": true,
+      "gender": "male",
+      "email": "shree@gmail.com",
+      "city": "Mumbai",
+      "id": 7
+    },
+    {
+      "name": "Jiya",
+      "mobile": "8779180087",
+      "Password": "Jiya1234",
+      "confirmPassword": "Jiya1234",
+      "TnC": true,
+      "gender": "female",
+      "email": "Jiya@gmail.com",
+      "city": "Mumbai",
+      "id": 8
+    },
+    {
+      "name": "nitish",
+      "mobile": "4444556666",
+      "Password": "nitish123",
+      "confirmPassword": "nitish123",
+      "TnC": true,
+      "gender": "male",
+      "email": "nitish@gmail.com",
+      "city": "nashik",
+      "id": 9
+    },
+    {
+      "name": "shiv",
+      "mobile": "4444456789",
+      "Password": "Shiv1234",
+      "confirmPassword": "Shiv1234",
+      "TnC": true,
+      "gender": "male",
+      "email": "shi@gmai.com",
+      "city": "pune",
+      "id": 10
+    },
+    {
+      "name": "poonam",
+      "mobileNo": "9876655478",
+      "email": "poonam@gmail.com",
+      "pancard": "ASCGR1234D",
+      "gender": "female",
+      "city": "Mumbai",
+      "password": "poonam1234",
+      "confirmPassword": "poonam1234",
+      "acceptTerms": true,
+      "id": 11
+    },
+    {
+      "name": "shree",
+      "mobileNo": "0987767678",
+      "email": "shree@gmail.com",
+      "pancard": "VGFHJ3456A",
+      "gender": "male",
+      "city": "Mumbai",
+      "password": "shree1234",
+      "confirmPassword": "shree1234",
+      "acceptTerms": true,
+      "id": 12
+    }
+  ],
+  "owner": [
+    {
+      "name": "poonam",
+      "mobile": "8779180087",
+      "Password": "poonam123",
+      "confirmPassword": "poonam123",
+      "TnC": true,
+      "gender": "female",
+      "email": "poonambhapkar34@gmail.com",
+      "city": "Mumbai",
+      "id": 1
+    },
+    {
+      "name": "Sheetal",
+      "mobile": "8979180087",
+      "Password": "Sheetal12",
+      "confirmPassword": "Sheetal12",
+      "TnC": true,
+      "gender": "female",
+      "email": "Sheetal@gmail.com",
+      "city": "Mumbai",
+      "id": 2
+    },
+    {
+      "name": "Shreeya",
+      "mobile": "4567890343",
+      "Password": "Shreeya12",
+      "confirmPassword": "Shreeya12",
+      "TnC": true,
+      "gender": "female",
+      "email": "Shreeya@gmail.com",
+      "city": "pune",
+      "id": 3
+    },
+    {
+      "name": "pooja",
+      "mobile": "9979180087",
+      "Password": "pooja123",
+      "confirmPassword": "pooja123",
+      "TnC": true,
+      "gender": "female",
+      "email": "pooja@gmail.com",
+      "city": "Mumbai",
+      "id": 4
+    },
+    {
+      "name": "santosh",
+      "mobile": "9979180087",
+      "Password": "Santosh123",
+      "confirmPassword": "Santosh123",
+      "TnC": true,
+      "gender": "male",
+      "email": "Santosh@gmail.com",
+      "city": "Mumbai",
+      "id": 5
+    },
+    {
+      "name": "samiksha",
+      "mobile": "7620411208",
+      "Password": "Samiksha1234",
+      "confirmPassword": "Samiksha1234",
+      "TnC": true,
+      "gender": "female",
+      "email": "samiksha@gmail.com",
+      "city": "pune",
+      "cities1": [],
+      "id": 6
+    },
+    {
+      "name": "rani",
+      "mobile": "8765457882",
+      "Password": "rani1234",
+      "confirmPassword": "rani1234",
+      "TnC": true,
+      "gender": "female",
+      "email": "rani@gmail.com",
+      "city": "wardha",
+      "cities1": [],
+      "id": 7
+    },
+    {
+      "name": "siyaram",
+      "mobileNo": "9877648356",
+      "email": "siyaram@gmai.com",
+      "pancard": "ASDCF1234G",
+      "gender": "male",
+      "city": "Delhi",
+      "password": "SIYA1234",
+      "confirmPassword": "SIYA1234",
+      "acceptTerms": true,
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "name": "poonam",
+      "mobile": "9898989999",
+      "Password": "Poonam344",
+      "confirmPassword": "Poonam1234",
+      "TnC": true,
+      "gender": "female",
+      "email": "poonam@gmail.com",
+      "city": "pune",
+      "cities1": [],
+      "id": 1
+    },
+    {
+      "name": "reshma",
+      "mobile": "9876543457",
+      "Password": "reshma1234",
+      "confirmPassword": "reshma1234",
+      "TnC": true,
+      "gender": "female",
+      "email": "reshma@gmail.com",
+      "city": "wardha",
+      "cities1": [],
+      "id": 2
+    },
+    {
+      "name": "vaishali",
+      "mobile": "8877543675",
+      "Password": "vaishali1234",
+      "confirmPassword": "vaishali1234",
+      "TnC": true,
+      "gender": "female",
+      "email": "vaishali@gmail.com",
+      "city": "deoli",
+      "cities1": [],
+      "id": 3
+    },
+    {
+      "name": "Ashu",
+      "mobile": "9764567888",
+      "Password": "ashu1234",
+      "confirmPassword": "ashu1234",
+      "TnC": true,
+      "gender": "female",
+      "email": "ashu@gmail.com",
+      "city": "wardha",
+      "cities1": [],
+      "id": 4
+    },
+    {
+      "name": "shree",
+      "mobileNo": "9876543245",
+      "email": "shree@gmail.com",
+      "pancard": "HGYBV2345A",
+      "gender": "male",
+      "city": "Pune",
+      "password": "shree1234",
+      "confirmPassword": "shree1234",
+      "acceptTerms": true,
+      "id": 5
+    }
+  ],
+  "hotelDetails": [
+    {
+      "hotelName": "hotel Manthon",
+      "ownerName": "poonam",
+      "hotelContactNo": "9898989855",
+      "hotelAddress": "mumbai",
+      "hotelEmail": "manthon@gmail.com",
+      "totalRooms": "23",
+      "speciality": "nonveg",
+      "id": 1
+    },
+    {
+      "hotelName": "hotel Manthon",
+      "ownerName": "santosh",
+      "hotelContactNo": "9898989855",
+      "hotelAddress": "mumbai",
+      "hotelEmail": "manthon@gmail.com",
+      "totalRooms": "23",
+      "speciality": "nonveg",
+      "id": 2
+    },
+    {
+      "hotelName": "hotel Sai",
+      "ownerName": "santosh",
+      "hotelContactNo": "9898989855",
+      "hotelAddress": "mumbai",
+      "hotelEmail": "manthon@gmail.com",
+      "totalRooms": "23",
+      "speciality": "nonveg",
+      "id": 3
+    },
+    {
+      "hotelName": "hotel Star",
+      "ownerName": "santosh",
+      "hotelContactNo": "9898989855",
+      "hotelAddress": "mumbai",
+      "hotelEmail": "manthon@gmail.com",
+      "totalRooms": "23",
+      "speciality": "nonveg",
+      "id": 4
+    },
+    {
+      "hotelName": "hotel Prasad",
+      "ownerName": "santosh",
+      "hotelContactNo": "9898989855",
+      "hotelAddress": "mumbai",
+      "hotelEmail": "manthon@gmail.com",
+      "totalRooms": "23",
+      "speciality": "nonveg",
+      "id": 5
+    },
+    {
+      "hotelName": "hotel Taj",
+      "ownerName": "poonam",
+      "hotelContactNo": "9898989855",
+      "hotelAddress": "mumbai",
+      "hotelEmail": "manthon@gmail.com",
+      "totalRooms": "23",
+      "speciality": "nonveg",
+      "id": 6
+    },
+    {
+      "hotelName": "hotel sheja",
+      "ownerName": "poonam",
+      "hotelContactNo": "9898989855",
+      "hotelAddress": "mumbai",
+      "hotelEmail": "manthon@gmail.com",
+      "totalRooms": "23",
+      "speciality": "nonveg",
+      "id": 7
+    },
+    {
+      "hotelName": "royal hotel",
+      "ownerName": "samiksha",
+      "hotelContactNo": "8636389855",
+      "hotelAddress": "wardha",
+      "hotelEmail": "samiksha@gmail.com",
+      "totalRooms": "16",
+      "speciality": "nonveg, veg",
+      "id": 8
+    },
+    {
+      "hotelName": "RamBharose",
+      "ownerName": "Sachin",
+      "hotelContactNo": "9876567876",
+      "hotelAddress": "At delhi",
+      "hotelEmail": "ramhotel@gmail.com",
+      "totalRooms": "15",
+      "speciality": "Maharashtrian food",
+      "hotelvehicles": "",
+      "hotelRating": "",
+      "id": 9
+    },
+    {
+      "hotelName": "",
+      "ownerName": "",
+      "hotelContactNo": "",
+      "hotelAddress": "",
+      "hotelEmail": "",
+      "totalRooms": "",
+      "speciality": "",
+      "hotelvehicles": "",
+      "hotelRating": "",
+      "id": 10
+    }
+  ],
+  "hotelBooking": []
+}
